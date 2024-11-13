@@ -51,7 +51,7 @@ export default defineNuxtComponent({
     <button @click="increment">増やす</button>
     <button @click="decrement">減らす</button>
     <div style="margin-top: 10px">
-      <NuxtLink to="/test2">test2 へ</NuxtLink>
+      <NuxtLink to="/test">test へ</NuxtLink>
     </div>
   </div>
 </template>
